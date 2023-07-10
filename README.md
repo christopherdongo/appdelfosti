@@ -1,2 +1,2 @@
 
-##ejemplo realizado como prueba tecnica de react-native utilizando react-native y typescript 
+## app realizado como prueba tecnica utilizando react-native y typescript 
